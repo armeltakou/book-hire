@@ -127,7 +127,7 @@
                 <div class="menu-item light-red">
                     <a href="#contact-modal" data-toggle="modal">
                         <i class="fa fa-envelope-o"></i>
-                        <p>Contacts</p>
+                        <p>Contact</p>
                     </a>
                 </div>
                 <div class="menu-item purple">
